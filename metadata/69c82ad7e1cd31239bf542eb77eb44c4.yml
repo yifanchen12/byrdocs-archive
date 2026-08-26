@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 69c82ad7e1cd31239bf542eb77eb44c4
+url: https://byrdocs.org/files/69c82ad7e1cd31239bf542eb77eb44c4.pdf
+type: book
+data:
+  title: 智能医学
+  authors:
+  - 刘荣
+  filetype: pdf
+  isbn:
+  - '9787117278010'
+  publisher: 人民卫生出版社
+  publish_year: '2018'
